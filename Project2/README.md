@@ -3,7 +3,7 @@
 # Model-free Algorithms (Monte-Carlo and Temporal Difference)
 
 #### Due Date
-* Thursday September 26, 2019 (23:59)
+* Thursday October 8, 2020 (23:59)
 
 #### Total Points
 * 100 (One Hundred)
