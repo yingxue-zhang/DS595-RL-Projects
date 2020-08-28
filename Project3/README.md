@@ -54,7 +54,7 @@ testing DQN:
 ## Goal
 In this project, you will be asked to implement DQN to play [Breakout](https://gym.openai.com/envs/Breakout-v0/). This project will be completed in Python 3 using [Pytorch](https://pytorch.org/). The goal of your training is to get averaging reward in 100 episodes over **40 points** in **Breakout**, with OpenAI's Atari wrapper & unclipped reward. For more details, please see the [slides](https://docs.google.com/presentation/d/1CbYqY5DfXQy4crBw489Tno_K94Lgo7QwhDDnEoLYMbI/edit?usp=sharing).
 
-<img src="https://github.com/yingxue-zhang/DS595CS525-RL-Projects/blob/master/Project3/metarials/project3.png" width="80%" >
+<img src="https://github.com/yingxue-zhang/DS595CS525-RL-Projects/blob/master/Project3/materials/project3.png" width="80%" >
 
 ## Deliverables
 Please compress all the below files into a zipped file and submit the zip file (firstName_lastName_hw3.zip) to Canvas.
@@ -90,7 +90,7 @@ Please compress all the below files into a zipped file and submit the zip file (
   * You can get full credits if the scripts can run successfully, otherwise you may loss some points based on your error.
 
 ## Hints
-* [Naive Pytorch Tutorial](https://github.com/yingxue-zhang/DS595CS525-RL-Projects/blob/master/Project3/metarials/Pytorch_tutorial.ipynb)
+* [Naive Pytorch Tutorial](https://github.com/yingxue-zhang/DS595CS525-RL-Projects/blob/master/Project3/materials/Pytorch_tutorial.ipynb)
 * [Official Pytorch Tutorial](https://pytorch.org/tutorials/)
 * [Official DQN Pytorch Tutorial](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
 * [Official DQN paper](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
