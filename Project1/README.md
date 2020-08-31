@@ -39,7 +39,7 @@ Please compress your mdp_dp.py file into a zipped file (firstName_lastName_hw1.z
 ## Guidelines
 * Implement functions in mdp_dp.py
 * Evaluate functions by typing "nosetests -v mdp_dp_test.py" in terminal (you need put mdp_dp.py and mdp_dp_test.py in the same folder)
-* If you got error using "nosetests -v mdp_dp_test.py" due to python version (sometimes, nosetests will use python2.7 by default), try: python3 -m "nose"
+* If you got error using "nosetests -v mdp_dp_test.py" due to python version (sometimes, nosetests will use python2.7 by default), try: python3 -m nose -v mdp_dp_test.py
 
 ## Tips for Python and OpenAI Gym
 [Python Documentation](https://www.python.org/doc/)
