@@ -1,5 +1,23 @@
 # Project 4 [Group (3-4 people)]
 
+#### Important Dates
+* Project Start
+  * **Thursday October 22, 2020 **
+* Project Proposal Due (Upload to Canvas)
+  * **Thursday November 5, 2020 (23:59)**
+  * *About 2 pages*
+* Project Progress Report Due
+  * **Thursday November 19, 2020 (23:59)**
+  * *About 5 pages*
+* Final Project Report Due
+  * **Tuesday December 8, 2020 (23:59)**
+  * *About 10 pages*
+  * *Code and trained model*
+  * *Demo (Optional)*
+  * *Self-and-cross evaluation form*
+* Poster Session (on Zoom)
+  * **Thursday December 10, 2020 **
+
 #### Total Points
 * 100 (One Hundred)
 
