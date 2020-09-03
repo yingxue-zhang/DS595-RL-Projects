@@ -2,7 +2,7 @@
 
 #### Important Dates
 * Project Start
-  * **Thursday October 22, 2020 **
+  * **Thursday October 22, 2020**
 * Project Proposal Due (Upload to Canvas)
   * **Thursday November 5, 2020 (23:59)**
   * *About 2 pages*
@@ -16,7 +16,7 @@
   * *Demo (Optional)*
   * *Self-and-cross evaluation form*
 * Poster Session (on Zoom)
-  * **Thursday December 10, 2020 **
+  * **Thursday December 10, 2020**
 
 #### Total Points
 * 100 (One Hundred)
