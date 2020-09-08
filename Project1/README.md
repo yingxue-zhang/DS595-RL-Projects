@@ -31,6 +31,13 @@ Please compress your mdp_dp.py file into a zipped file (firstName_lastName_hw1.z
 <span style="color:red">**Please note that reward can be defined on (state), (state, action), (state, action, next_state). In this assignment, we define the reward on (state,action,next_state).** The following pseudocode is the general method.</span>
 <img src="https://github.com/yingxue-zhang/DS595CS525-RL-Projects/blob/master/Project1/img/pe.png" width="80%" >
 
+* Policy Iteration<br/>
+<img src="https://github.com/yingxue-zhang/DS595CS525-RL-Projects/blob/master/Project1/img/pi.png" width="80%" >
+
+* Value Iteration<br/>
+<img src="https://github.com/yingxue-zhang/DS595CS525-RL-Projects/blob/master/Project1/img/vi.png" width="80%" >
+
+
 ## Setup
 * Install [Python 3](https://www.python.org/downloads/)
 * interminal, type: pip [install gym](https://pypi.org/project/gym/0.7.2/)
