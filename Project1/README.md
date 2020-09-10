@@ -15,7 +15,6 @@ In this assignment, you will be asked to implement policy iteration and value it
 <img src="https://github.com/yingxue-zhang/DS595CS525-RL-Projects/blob/master/Project1/img/hw1.png" width="80%">
 <img src="https://github.com/yingxue-zhang/DS595CS525-RL-Projects/blob/master/Project1/img/details_fl.png" width="80%">
 
-        E.g., Deterministic. It means if in state 0, take action 2(right), the probability of moving to state 1 is 1.  
 
 ## Deliverables
 
