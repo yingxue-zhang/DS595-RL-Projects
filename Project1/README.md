@@ -42,7 +42,7 @@ Please compress your mdp_dp.py file into a zipped file (firstName_lastName_hw1.z
 
 ## Setup
 * Install [Python 3](https://www.python.org/downloads/)
-* interminal, type: pip [install gym](https://pypi.org/project/gym/0.7.2/)
+* interminal, type: pip3 [install gym](https://pypi.org/project/gym/0.7.2/)
 * interminal, type: pip [install nose](https://pypi.org/project/nose/)
 
 ## Guidelines
