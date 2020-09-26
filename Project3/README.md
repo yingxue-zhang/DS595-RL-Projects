@@ -8,29 +8,6 @@ Please don't revise test.py, environment.py and agent.py
 #### Total Points
 * 100 (One Hundred)
 
-## Leaderboard and Bonus Points
-In this project, we will provide a leaderboard and give **10** bonus points to the **top 3** highest reward students! 
-* Due date for leaderboard
-   * Thursday **October31**, 2019 (23:59)
-* Where to see the leaderboard 
-  * We will create a discussion on Canvas and each of you can post your highest reward with a sreenshot. TA will summarize your posts and list the top 3 highest rewards every Thursday after the regular due date of the project 3 and post it below. <br>
-  
-  **Leaderboard for Breakout-DQN** 
-  **Update Date: 11/07/2019 16:00**
-  
-  | Top | Date | Name | Score | Note |
-  | :---: | :---:| :---: | :---: | :---: |
-  | **1**   |10/22/2019| **Prathyush SP**          |  **142.77**    | Conv Network and Priority Buffer trained for 50k episodes
-  |         |10/18/2019| Prathyush SP          |  81.07     | Simple DQN with Conv Based Architecture for 60k episodes
-  | **2**   |10/28/2019| **Sapan Agrawal**         |   **91.34**    | Architecture described in the DQN paper for 120k episodes
-  | 3   |11/1/2019| Hanshen Yu| 86.82 | Double DQN with suggested architecture, suggested params for 20k episodes
-  | **4**   |10/31/2019| **Mohamed Mahdi Alouane** | **80.24**     | Double DQN with 1e-6 learning rate trained for 100K 
-  | 5   |10/26/2019| Vamshi Krishna Uppununthala|  79.5   | Dueling DQN for 50k episodes
-  | 6   |10/31/2019| Sai Vineeth K V | 66.5 | Dueling DQN with 19k episodes of training
-  | 7   |11/14/2019| Cory neville | 59.96 | DQN with target network and 2 output actions (left/right). Modified reward to include -1 on episode end. Trained for 25k episodes.
-  | 8   |10/24/2019|Shreesha Narasimha Murthy  |56.79     | Simple DQN with MSE for 40k episodes
-  | 9   |10/20/2019|Sinan Morcel            |53.26        |  Plain DQN with TA's parameters
-  
 * How to elvaluate
   * You should submit your lastest trained model and python code before leaderboard due date. TA will run your code to make sure the result is consistent with your screenshot. 
 * How to grade
