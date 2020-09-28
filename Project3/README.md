@@ -3,7 +3,7 @@
 Please don't revise test.py, environment.py and agent.py
 
 #### Due Date
-* Thursday October 22, 2020 (23:59)
+* Thursday October 29, 2020 (23:59)
 
 #### Total Points
 * 100 (One Hundred)
