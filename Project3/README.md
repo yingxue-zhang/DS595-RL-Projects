@@ -53,8 +53,8 @@ In this project, you will be asked to implement DQN to play [Breakout](https://g
 Please compress all the below files into a zipped file and submit the zip file (firstName_lastName_hw3.zip) to Canvas.
 
 * **Trained Model**
-  * Model file
-  * If your model is too large for Canvas, upload it to a cloud space and write download.sh to download the model
+  * Model file (.pth)
+  * If your model is too large for Canvas, upload it to a cloud space and provide the download link 
 
 * **PDF Report**
   * Set of Experiments Performed: 
