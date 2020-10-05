@@ -25,7 +25,7 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
  
 
 * How to elvaluate
-  * You should submit your lastest trained model and python code before leaderboard due date. TA will run your code to make sure the result is consistent with your screenshot. 
+  * You should submit your lastest trained model and python code. TA will run your code to make sure the result is consistent with your screenshot. 
 * How to grade
   * Top 3 students on the leaderboard can get 10 bonus points for project 3.
   
