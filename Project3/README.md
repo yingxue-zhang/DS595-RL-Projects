@@ -8,6 +8,22 @@ Please don't revise test.py, environment.py and agent.py
 #### Total Points
 * 100 (One Hundred)
 
+## Leaderboard and Bonus Points
+In this project, we will provide a leaderboard and give **10** bonus points to the **top 3** highest reward students! 
+* Where to see the leaderboard 
+  * We will create a discussion on Canvas and each of you can post your highest reward with a sreenshot. TA will summarize your posts and list the top 3 highest rewards and post it below. <br>
+  * The leaderboard of Fall 2019 is also posted at the end of this page, you can check it out.
+  
+  **Leaderboard for Breakout-DQN** 
+  **Update Date: 10/05/2020 16:00**
+  
+  | Top | Date | Name | Score | Note |
+  | :---: | :---:| :---: | :---: | :---: |
+  | | |         |   | 
+  |   | |  |   | 
+  | | | |   | 
+ 
+
 * How to elvaluate
   * You should submit your lastest trained model and python code before leaderboard due date. TA will run your code to make sure the result is consistent with your screenshot. 
 * How to grade
@@ -80,3 +96,18 @@ Please compress all the below files into a zipped file and submit the zip file (
 * Other choice for GPU
   * Use your own GPU
   * Apply [Ace account](https://arc.wpi.edu/computing/accounts/ace-accounts/) from WPI 
+  
+## Leaderboard for Fall 2019** 
+  
+  | Top | Date | Name | Score |
+  | :---: | :---:| :---: | :---: |
+  | **1**   |10/22/2019| **Prathyush SP**          |  **142.77**    | 
+  |         |10/18/2019| Prathyush SP          |  81.07     | 
+  | **2**   |10/28/2019| **Sapan Agrawal**         |   **91.34**    |
+  | 3   |11/1/2019| Hanshen Yu| 86.82 |
+  | **4**   |10/31/2019| **Mohamed Mahdi Alouane** | **80.24**     | 
+  | 5   |10/26/2019| Vamshi Krishna Uppununthala|  79.5   | 
+  | 6   |10/31/2019| Sai Vineeth K V | 66.5 | 
+  | 7   |11/14/2019| Cory neville | 59.96 | 
+  | 8   |10/24/2019|Shreesha Narasimha Murthy  |56.79     | 
+  | 9   |10/20/2019|Sinan Morcel            |53.26        |
