@@ -8,25 +8,25 @@ np.set_printoptions(precision=3)
 For policy_evaluation, policy_improvement, policy_iteration and value_iteration,
 the parameters P, nS, nA, gamma are defined as follows:
 
-	P: nested dictionary
-		From gym.core.Environment
-		For each pair of states in [1, nS] and actions in [1, nA], P[state][action] is a
-		tuple of the form (probability, nextstate, reward, terminal) where
-			- probability: float
-				the probability of transitioning from "state" to "nextstate" with "action"
-			- nextstate: int
-				denotes the state we transition to (in range [0, nS - 1])
-			- reward: int
-				either 0 or 1, the reward for transitioning from "state" to
-				"nextstate" with "action"
-			- terminal: bool
-			  True when "nextstate" is a terminal state (hole or goal), False otherwise
-	nS: int
-		number of states in the environment
-	nA: int
-		number of actions in the environment
-	gamma: float
-		Discount factor. Number in range [0, 1)
+    P: nested dictionary
+        From gym.core.Environment
+        For each pair of states in [1, nS] and actions in [1, nA], P[state][action] is a
+        tuple of the form (probability, nextstate, reward, terminal) where
+            - probability: float
+                the probability of transitioning from "state" to "nextstate" with "action"
+            - nextstate: int
+                denotes the state we transition to (in range [0, nS - 1])
+            - reward: int
+                either 0 or 1, the reward for transitioning from "state" to
+                "nextstate" with "action"
+            - terminal: bool
+              True when "nextstate" is a terminal state (hole or goal), False otherwise
+    nS: int
+        number of states in the environment
+    nA: int
+        number of actions in the environment
+    gamma: float
+        Discount factor. Number in range [0, 1)
 """
 
 def policy_evaluation(P, nS, nA, policy, gamma=0.9, tol=1e-8):
@@ -51,7 +51,21 @@ def policy_evaluation(P, nS, nA, policy, gamma=0.9, tol=1e-8):
     value_function = np.zeros(nS)
     ############################
     # YOUR IMPLEMENTATION HERE #
-    
+    value_stable = False
+    while not value_stable:
+        prev_value_function = value_function
+        value_function = np.zeros(nS)
+        for s in range(nS):
+            this_v = 0
+            for a in range(nA):
+                this_policy = policy[s, a]
+                for item in P[s][a]:
+                    probability, nextstate, reward, terminal = item
+                    this_v += this_policy * probability * (reward + gamma * prev_value_function[nextstate])
+            value_function[s] = this_v
+        if np.max(np.abs(value_function - prev_value_function)) < tol:
+            value_stable = True
+
     ############################
     return value_function
 
@@ -74,10 +88,19 @@ def policy_improvement(P, nS, nA, value_from_policy, gamma=0.9):
     """
 
     new_policy = np.ones([nS, nA]) / nA
-	############################
-	# YOUR IMPLEMENTATION HERE #
-
-	############################
+    ############################
+    # YOUR IMPLEMENTATION HERE #
+    for s in range(nS):
+        Q_s = np.zeros((nA, ))
+        for a in range(nA):
+            this_Q = 0
+            for item in P[s][a]:
+                probability, nextstate, reward, terminal = item
+                this_Q += probability * (reward + gamma * value_from_policy[nextstate])
+            Q_s[a] = this_Q
+        best_a = np.argmax(Q_s).item()
+        new_policy[s, :] = np.where(np.array(range(nA)) == best_a, 1, 0)
+    ############################
     return new_policy
 
 
@@ -100,10 +123,16 @@ def policy_iteration(P, nS, nA, policy, gamma=0.9, tol=1e-8):
     V: np.ndarray[nS]
     """
     new_policy = policy.copy()
-	############################
-	# YOUR IMPLEMENTATION HERE #
-
-	############################
+    ############################
+    # YOUR IMPLEMENTATION HERE #
+    policy_stable = False
+    while not policy_stable:
+        old_policy = new_policy.copy()
+        V = policy_evaluation(P, nS, nA, old_policy, gamma, tol)
+        new_policy = policy_improvement(P, nS, nA, V, gamma)
+        if np.all(old_policy == new_policy):
+            policy_stable = True
+    ############################
     return new_policy, V
 
 def value_iteration(P, nS, nA, V, gamma=0.9, tol=1e-8):
@@ -128,7 +157,22 @@ def value_iteration(P, nS, nA, V, gamma=0.9, tol=1e-8):
     V_new = V.copy()
     ############################
     # YOUR IMPLEMENTATION HERE #
+    V_stable = False
+    while not V_stable:
+        V_old = V_new.copy()
+        for s in range(nS):
+            this_V_table = np.zeros((nA,))
+            for a in range(nA):
+                this_V = 0
+                for item in P[s][a]:
+                    probability, nextstate, reward, terminal = item
+                    this_V += probability * (reward + gamma * V_old[nextstate])
+                this_V_table[a] = this_V
+            V_new[s] = np.max(this_V_table)
+        if np.max(np.abs(V_new - V_old)) < tol:
+            V_stable = True
 
+    policy_new = policy_improvement(P, nS, nA, V_new, gamma)
     ############################
     return policy_new, V_new
 
@@ -159,7 +203,11 @@ def render_single(env, policy, render = False, n_episodes=100):
                 env.render() # render the game
             ############################
             # YOUR IMPLEMENTATION HERE #
-            
+            action = np.random.choice(env.nA, p=policy[ob, :])
+            ob, reward, terminal, _ = env.step(action)
+            total_rewards += reward
+            if terminal:
+                done = True
     return total_rewards
 
 
