@@ -95,7 +95,7 @@ Please compress all the below files into a zipped file and submit the zip file (
 * [How to use Pytorch on GPU](https://docs.google.com/document/d/1i8YawKjEwg7qpfo7Io4C_FvSYiZxZjWMLkqHfcZMmaI/edit?usp=sharing)
 * Other choice for GPU
   * Use your own GPU
-  * Apply [Ace account]or Turing account (https://arc.wpi.edu/computing/accounts/) from WPI 
+  * Apply [Ace account](https://arc.wpi.edu/computing/accounts/) or[Turing account](https://arc.wpi.edu/computing/accounts/) from WPI 
   
 ## Leaderboard for Fall 2019** 
   
