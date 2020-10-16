@@ -34,7 +34,10 @@ def initial_policy(observation):
     # get parameters from observation
     score, dealer_score, usable_ace = observation
     # action
-
+    if score >= 20:
+        action = 0
+    else:
+        action = 1
     ############################
     return action
 
@@ -68,37 +71,41 @@ def mc_prediction(policy, env, n_episodes, gamma = 1.0):
     ############################
     # YOUR IMPLEMENTATION HERE #
     # loop each episode
-
+    for i_episode in range(n_episodes):
         # initialize the episode
-
+        state = env.reset()
         # generate empty episode list
-
+        episode = []
         # loop until episode generation is done
-
+        while True:
 
             # select an action
-
+            action = policy(state)
             # return a reward and new state
-
+            new_state, reward, done, _ = env.step(action)
             # append state, action, reward to episode
-
+            episode.append((state, action, reward))
             # update state to new state
-
-
-
+            state = new_state
+            if done:
+                break
 
         # loop for each step of episode, t = T-1, T-2,...,0
-
+        G = 0
+        states = set()
+        for t in range(len(episode) - 1, -1, -1):
+            state_t, action_t, reward_t = episode[t]
             # compute G
-
+            G = gamma * G + reward_t
             # unless state_t appears in states
-
+            if state_t not in states:
+                states.add(state_t)
                 # update return_count
-
+                returns_count[state_t] += 1
                 # update return_sum
-
+                returns_sum[state_t] += G
                 # calculate average return for this state over all sampled episodes
-
+                V[state_t] = returns_sum[state_t] / returns_count[state_t]
 
 
     ############################
@@ -131,9 +138,18 @@ def epsilon_greedy(Q, state, nA, epsilon = 0.1):
     """
     ############################
     # YOUR IMPLEMENTATION HERE #
-
-
-
+    greedy_action = -1
+    greedy_q = - np.inf
+    for action in range(nA):
+        if Q[state][action] > greedy_q:
+            greedy_action = action
+            greedy_q = Q[state][action]
+    random_action = random.randint(0, nA - 1)
+    crit = random.random()
+    if crit < 1 - epsilon:
+        action = greedy_action
+    else:
+        action = random_action
 
     ############################
     return action
@@ -171,38 +187,41 @@ def mc_control_epsilon_greedy(env, n_episodes, gamma = 1.0, epsilon = 0.1):
 
     ############################
     # YOUR IMPLEMENTATION HERE #
-
+    for i_episode in range(n_episodes):
         # define decaying epsilon
-
-
-
+        epsilon = epsilon - (0.1/n_episodes)
         # initialize the episode
-
+        state = env.reset()
         # generate empty episode list
-
+        episode = []
         # loop until one episode generation is done
-
+        while True:
 
             # get an action from epsilon greedy policy
-
+            action = epsilon_greedy(Q, state, env.action_space.n, epsilon)
             # return a reward and new state
-
+            new_state, reward, done, _ = env.step(action)
             # append state, action, reward to episode
-
+            episode.append((state, action, reward))
             # update state to new state
-
-
+            state = new_state
+            if done:
+                break
 
         # loop for each step of episode, t = T-1, T-2, ...,0
-
+        G = 0
+        states_actions = set()
+        for t in range(len(episode) - 1, -1, -1):
+            state_t, action_t, reward_t = episode[t]
             # compute G
-
+            G = gamma * G + reward_t
             # unless the pair state_t, action_t appears in <state action> pair list
-
+            if (state_t, action_t) not in states_actions:
+                states_actions.add((state_t, action_t))
                 # update return_count
-
+                returns_count[state_t, action_t] += 1
                 # update return_sum
-
+                returns_sum[state_t, action_t] += G
                 # calculate average return for this state over all sampled episodes
-
+                Q[state_t][action_t] = returns_sum[state_t, action_t] / returns_count[state_t, action_t]
     return Q
