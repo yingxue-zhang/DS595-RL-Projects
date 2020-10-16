@@ -84,7 +84,7 @@ Please compress all the below files into a zipped file and submit the zip file (
 
 ## Hints
 * [Naive Pytorch Tutorial](https://github.com/yingxue-zhang/DS595CS525-RL-Projects/blob/master/Project3/materials/Pytorch_tutorial.ipynb)
-* [How to Save Model with Pytorch](https://github.com/yingxue-zhang/DS595CS525-RL-Projects/blob/master/Project3/materials/How to Save Model with Pytorch.pdf)
+* [How to Save Model with Pytorch](https://github.com/yingxue-zhang/DS595CS525-RL-Projects/blob/master/Project3/materials/How%20to%20Save%20Model%20with%20Pytorch.pdf)
 * [Official Pytorch Tutorial](https://pytorch.org/tutorials/)
 * [Official DQN Pytorch Tutorial](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
 * [Official DQN paper](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
