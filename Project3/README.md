@@ -66,6 +66,8 @@ Please compress all the below files into a zipped file and submit the zip file (
   * Visualization: Learning curve of DQN. 
     * X-axis: number of time steps
     * Y-axis: average reward in last 30 episodes.
+    
+    <img src="https://github.com/yingxue-zhang/DS595CS525-RL-Projects/blob/master/Project3/materials/plot.png" width="60%" >
 
 * **Python Code**
   * All the code you implemented including sample codes.
