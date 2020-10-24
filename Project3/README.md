@@ -19,7 +19,7 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   
   | Top | Date | Name | Score | Note |
   | :---: | :---:| :---: | :---: | :---: |
-  | | |         |   | 
+  |1 |10/24/2020 |   Daniel Jeswin Nallathambi      | 169.04  | 
   |   | |  |   | 
   | | | |   | 
  
