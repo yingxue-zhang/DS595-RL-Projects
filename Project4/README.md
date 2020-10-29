@@ -2,12 +2,12 @@
 
 #### Important Dates
 * Project Start
-  * **Thursday October 22, 2020**
+  * **Thursday October 29, 2020**
 * Project Proposal Due (Upload to Canvas)
-  * **Thursday November 5, 2020 (23:59)**
+  * **Thursday November 12, 2020 (23:59)**
   * *About 2 pages*
 * Project Progress Report Due
-  * **Thursday November 19, 2020 (23:59)**
+  * **Thursday November 26, 2020 (23:59)**
   * *About 5 pages*
 * Final Project Report Due
   * **Tuesday December 8, 2020 (23:59)**
