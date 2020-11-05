@@ -17,10 +17,10 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   **Leaderboard for Breakout-DQN** 
   **Update Date: 10/05/2020 16:00**
   
-  | Top | Date | Name | Score | Note |
-  | :---: | :---:| :---: | :---: | :---: |
-  |1 |10/24/2020 |   Daniel Jeswin Nallathambi      | 169.04  | Dueling DQN
-  |   | |  |   | 
+  | Top | Date | Name | Score |
+  | :---: | :---:| :---: | :---: | 
+  | 1  | 11/5/2020|Apiwat Ditthapron  | 194.5  | 
+  |2 |10/24/2020 |   Daniel Jeswin Nallathambi      | 169.04  | 
   | | | |   | 
  
 
