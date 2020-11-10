@@ -19,9 +19,10 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   
   | Top | Date | Name | Score |
   | :---: | :---:| :---: | :---: | 
-  | 1  | 11/5/2020|Apiwat Ditthapron  | 194.5  | 
-  |2 |10/24/2020 |   Daniel Jeswin Nallathambi      | 169.04  | 
-  | | | |   | 
+  | 1  | 11/10/2020|Akshay Sadanandan  | 222  | 
+  | 2  | 11/5/2020|Apiwat Ditthapron  | 194.5  | 
+  |3 |10/24/2020 |   Daniel Jeswin Nallathambi      | 169.04  | 
+  |4 | 11/10/2020|Jinyang Wang | 75.14  | 
  
 
 * How to elvaluate
