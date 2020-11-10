@@ -65,7 +65,7 @@ Please compress all the below files into a zipped file and submit the zip file (
     * what kind of loss function you used and what kind of optimizer you used.
   * Special skills: Include the skills which can improve the generation quality. Here are some [tips](https://arxiv.org/pdf/1710.02298.pdf) may help. (Optional)
   * Visualization: Learning curve of DQN. 
-    * X-axis: number of time steps
+    * X-axis: number of episodes
     * Y-axis: average reward in last 30 episodes.
     
     <img src="https://github.com/yingxue-zhang/DS595CS525-RL-Projects/blob/master/Project3/materials/plot.png" width="60%" >
