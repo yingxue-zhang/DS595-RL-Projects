@@ -15,16 +15,17 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   * The leaderboard of Fall 2019 is also posted at the end of this page, you can check it out.
   
   **Leaderboard for Breakout-DQN** 
-  **Update Date: 11/05/2020 16:00**
+  **Update Date: 11/11/2020 16:00**
   
   | Top | Date | Name | Score |
   | :---: | :---:| :---: | :---: | 
   | 1  | 11/10/2020|Akshay Sadanandan  | 222  | 
   | 2  | 11/5/2020|Apiwat Ditthapron  | 194.5  | 
   |3 |10/24/2020 |   Daniel Jeswin Nallathambi      | 169.04  | 
-  |4 | 11/10/2020|Jinyang Wang | 75.14  | 
-  |5 | 11/11/2020|Oscar Garcia Fernandez | 60.36  |
-  |6 | 11/11/2020|Ran Jing | 51.2  | 
+  |4 | 11/11/2020|Songlin Hou | 77.22  |
+  |5 | 11/10/2020|Jinyang Wang | 75.14  | 
+  |6 | 11/11/2020|Oscar Garcia Fernandez | 60.36  |
+  |7 | 11/11/2020|Ran Jing | 51.2  | 
  
 
 * How to elvaluate
