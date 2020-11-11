@@ -60,6 +60,7 @@ Please compress all the below files into a zipped file and submit the zip file (
   * If your model is too large for Canvas, upload it to a cloud space and provide the download link 
 
 * **PDF Report**
+  * screenshot of the test results
   * Set of Experiments Performed: 
     * Include a section describing the set of experiments that you performed
     * what structures you experimented with (i.e., number of layers, number of neurons in each layer)
