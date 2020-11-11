@@ -23,6 +23,8 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   | 2  | 11/5/2020|Apiwat Ditthapron  | 194.5  | 
   |3 |10/24/2020 |   Daniel Jeswin Nallathambi      | 169.04  | 
   |4 | 11/10/2020|Jinyang Wang | 75.14  | 
+  |5 | 11/11/2020|Oscar Garcia Fernandez | 60.36  |
+  |6 | 11/11/2020|Ran Jing | 51.2  | 
  
 
 * How to elvaluate
