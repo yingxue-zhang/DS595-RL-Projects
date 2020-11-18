@@ -19,16 +19,17 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   
   | Top | Date | Name | Score |
   | :---: | :---:| :---: | :---: | 
-  | 1  | 11/10/2020|Akshay Sadanandan  | 222  | 
-  | 2  | 11/5/2020|Apiwat Ditthapron  | 194.5  | 
-  |3 |10/24/2020 |   Daniel Jeswin Nallathambi      | 169.04  |
-  |4 | 11/18/2020|Panagiotis Argyrakis  | 156.09  |
-  |5 | 11/18/2020|Xinyuan Yang  | 139.11  |
-  |6 | 11/18/2020|Mason DiCicco  | 94.88  |
-  |7 | 11/11/2020|Songlin Hou | 77.22  |
-  |8 | 11/10/2020|Jinyang Wang | 75.14  | 
-  |9 | 11/11/2020|Oscar Garcia Fernandez | 60.36  |
-  |10 | 11/18/2020|Brian Lewandowski | 52.72  | 
+  | 1  | 11/18/2020|Sayali Shelke  | 334  |
+  | 2  | 11/10/2020|Akshay Sadanandan  | 222  | 
+  | 3  | 11/5/2020|Apiwat Ditthapron  | 194.5  | 
+  |4 |10/24/2020 |   Daniel Jeswin Nallathambi      | 169.04  |
+  |5 | 11/18/2020|Panagiotis Argyrakis  | 156.09  |
+  |6 | 11/18/2020|Xinyuan Yang  | 139.11  |
+  |7 | 11/18/2020|Mason DiCicco  | 94.88  |
+  |8 | 11/11/2020|Songlin Hou | 77.22  |
+  |9 | 11/10/2020|Jinyang Wang | 75.14  | 
+  |10 | 11/11/2020|Oscar Garcia Fernandez | 60.36  |
+  |11 | 11/18/2020|Brian Lewandowski | 52.72  | 
  
 
 * How to elvaluate
