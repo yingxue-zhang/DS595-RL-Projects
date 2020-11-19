@@ -21,9 +21,9 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   | :---: | :---:| :---: | :---: | 
   | 1  | 11/19/2020|Abhishek Jain  | 424.21  |
   | 2  | 11/18/2020|Sayali Shelke  | 334  |
-  | 3  | 11/10/2020|Akshay Sadanandan  | 222  | 
-  | 4  | 11/5/2020|Apiwat Ditthapron  | 194.5  | 
-  |5 |10/24/2020 |   Daniel Jeswin Nallathambi      | 169.04  |
+  |3 |11/19/2020 |   Daniel Jeswin Nallathambi      | 231.18  |
+  | 4  | 11/10/2020|Akshay Sadanandan  | 222  | 
+  | 5  | 11/5/2020|Apiwat Ditthapron  | 194.5  | 
   |6 | 11/18/2020|Panagiotis Argyrakis  | 156.09  |
   |7 | 11/18/2020|Xinyuan Yang  | 139.11  |
   |8 | 11/18/2020|Mason DiCicco  | 94.88  |
