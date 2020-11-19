@@ -29,10 +29,6 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   |8 | 11/18/2020|Mason DiCicco  | 94.88  |
   |9 | 11/19/2020|Amisha Jindal  | 91.34  |
   |10 | 11/19/2020|Varun Eranki  | 83  |
-  |11 | 11/11/2020|Songlin Hou | 77.22  |
-  |12 | 11/10/2020|Jinyang Wang | 75.14  | 
-  |13 | 11/11/2020|Oscar Garcia Fernandez | 60.36  |
-  |14 | 11/18/2020|Brian Lewandowski | 52.72  | 
  
 
 * How to elvaluate
