@@ -15,21 +15,24 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   * The leaderboard of Fall 2019 is also posted at the end of this page, you can check it out.
   
   **Leaderboard for Breakout-DQN** 
-  **Update Date: 11/18/2020 16:00**
+  **Update Date: 11/19/2020 16:00**
   
   | Top | Date | Name | Score |
   | :---: | :---:| :---: | :---: | 
-  | 1  | 11/18/2020|Sayali Shelke  | 334  |
-  | 2  | 11/10/2020|Akshay Sadanandan  | 222  | 
-  | 3  | 11/5/2020|Apiwat Ditthapron  | 194.5  | 
-  |4 |10/24/2020 |   Daniel Jeswin Nallathambi      | 169.04  |
-  |5 | 11/18/2020|Panagiotis Argyrakis  | 156.09  |
-  |6 | 11/18/2020|Xinyuan Yang  | 139.11  |
-  |7 | 11/18/2020|Mason DiCicco  | 94.88  |
-  |8 | 11/11/2020|Songlin Hou | 77.22  |
-  |9 | 11/10/2020|Jinyang Wang | 75.14  | 
-  |10 | 11/11/2020|Oscar Garcia Fernandez | 60.36  |
-  |11 | 11/18/2020|Brian Lewandowski | 52.72  | 
+  | 1  | 11/19/2020|Abhishek Jain  | 424.21  |
+  | 2  | 11/18/2020|Sayali Shelke  | 334  |
+  | 3  | 11/10/2020|Akshay Sadanandan  | 222  | 
+  | 4  | 11/5/2020|Apiwat Ditthapron  | 194.5  | 
+  |5 |10/24/2020 |   Daniel Jeswin Nallathambi      | 169.04  |
+  |6 | 11/18/2020|Panagiotis Argyrakis  | 156.09  |
+  |7 | 11/18/2020|Xinyuan Yang  | 139.11  |
+  |8 | 11/18/2020|Mason DiCicco  | 94.88  |
+  |9 | 11/19/2020|Amisha Jindal  | 91.34  |
+  |10 | 11/19/2020|Varun Eranki  | 83  |
+  |11 | 11/11/2020|Songlin Hou | 77.22  |
+  |12 | 11/10/2020|Jinyang Wang | 75.14  | 
+  |13 | 11/11/2020|Oscar Garcia Fernandez | 60.36  |
+  |14 | 11/18/2020|Brian Lewandowski | 52.72  | 
  
 
 * How to elvaluate
