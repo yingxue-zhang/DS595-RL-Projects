@@ -27,8 +27,8 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   |6 | 11/19/2020|Varun Eranki  | 298  |
   | 7  | 11/5/2020|Apiwat Ditthapron  | 194.5  | 
   |8 | 11/18/2020|Panagiotis Argyrakis  | 156.09  |
-  |9 | 11/18/2020|Xinyuan Yang  | 139.11  |
-  |10 | 11/20/2020|Kavit Nilesh Shah  | 121.59  |
+  |9 | 11/20/2020|Scott Tang  | 153.89  |
+  |10 | 11/18/2020|Xinyuan Yang  | 139.11  |
  
 
 * How to elvaluate
