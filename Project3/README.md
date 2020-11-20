@@ -20,7 +20,7 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   | Top | Date | Name | Score |
   | :---: | :---:| :---: | :---: | 
   | 1  | 11/19/2020|Abhishek Jain  | 424.21  |
-  | 2  | 11/19/2020|Akshay Sadanandan  | 401  |
+  | 2  | 11/19/2020|Akshay Sadanandan  | 403  |
   | 3  | 11/19/2020|Dhirajsinh Deshmukh  | 393.37  |
   |4 |11/19/2020 |   Daniel Jeswin Nallathambi      | 335.26  |
   | 5  | 11/18/2020|Sayali Shelke  | 334  |
