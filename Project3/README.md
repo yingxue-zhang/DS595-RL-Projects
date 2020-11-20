@@ -29,8 +29,6 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   |8 | 11/18/2020|Panagiotis Argyrakis  | 156.09  |
   |9 | 11/18/2020|Xinyuan Yang  | 139.11  |
   |10 | 11/18/2020|Mason DiCicco  | 94.88  |
-  |11 | 11/19/2020|Amisha Jindal  | 91.34  |
-  |12 | 11/19/2020|Varun Eranki  | 83  |
  
 
 * How to elvaluate
