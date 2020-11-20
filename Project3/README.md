@@ -21,14 +21,16 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   | :---: | :---:| :---: | :---: | 
   | 1  | 11/19/2020|Abhishek Jain  | 424.21  |
   | 2  | 11/19/2020|Akshay Sadanandan  | 401  |
-  |3 |11/19/2020 |   Daniel Jeswin Nallathambi      | 335.26  |
-  | 4  | 11/18/2020|Sayali Shelke  | 334  |
-  | 5  | 11/5/2020|Apiwat Ditthapron  | 194.5  | 
-  |6 | 11/18/2020|Panagiotis Argyrakis  | 156.09  |
-  |7 | 11/18/2020|Xinyuan Yang  | 139.11  |
-  |8 | 11/18/2020|Mason DiCicco  | 94.88  |
-  |9 | 11/19/2020|Amisha Jindal  | 91.34  |
-  |10 | 11/19/2020|Varun Eranki  | 83  |
+  | 3  | 11/19/2020|Dhirajsinh Deshmukh  | 393.37  |
+  |4 |11/19/2020 |   Daniel Jeswin Nallathambi      | 335.26  |
+  | 5  | 11/18/2020|Sayali Shelke  | 334  |
+  |6 | 11/19/2020|Varun Eranki  | 298  |
+  | 7  | 11/5/2020|Apiwat Ditthapron  | 194.5  | 
+  |8 | 11/18/2020|Panagiotis Argyrakis  | 156.09  |
+  |9 | 11/18/2020|Xinyuan Yang  | 139.11  |
+  |10 | 11/18/2020|Mason DiCicco  | 94.88  |
+  |11 | 11/19/2020|Amisha Jindal  | 91.34  |
+  |12 | 11/19/2020|Varun Eranki  | 83  |
  
 
 * How to elvaluate
