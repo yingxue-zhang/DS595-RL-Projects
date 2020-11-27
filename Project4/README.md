@@ -21,6 +21,19 @@
 #### Total Points
 * 100 (One Hundred)
 
+## Project Titles
+| Team | Title|
+| :---: | :---: |
+|1|Benchmarking Agents Across Diverse Tasks |
+|2|Football with Manchester|
+|3|Deep Reinforcement Learning for Traffic Flow Optimization|
+|4|Generalized models for robotic tasks |
+|5|Tactical Decision-Making for Autonomous Driving |
+|6|Super Mario Bros |
+|7|Robot Navigation in Dynamic Environments using Deep Reinforcement Learning |
+|8|Autonomous Driving Simulation with Dynamic Obstacle Avoidance |
+|9|A Comparative Study of Jitter-Mitigating Methods for Deep Reinforcement Learning |
+
 ## Project Ideas
 ### Games
 <p align="center">
