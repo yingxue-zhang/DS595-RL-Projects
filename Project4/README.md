@@ -34,6 +34,38 @@
 |8|Autonomous Driving Simulation with Dynamic Obstacle Avoidance |
 |9|A Comparative Study of Jitter-Mitigating Methods for Deep Reinforcement Learning |
 
+# Final Poster Session
+Final Poster Session will be held in Zoom breakout rooms. Each breakout room will have **3** teams, when one team is presenting, other teams are assigned as audients/judges. Also, the poster session will have invited guests (students and faculty from not
+only WPI).
+## Zoom Link (to be updated)
+
+## Session Schedule
+**Date** : Dec 10, 2020
+| Time | Breakroom 1 | Breakroom 2 | Breakroom 3| 
+|---|---|---|---|
+|6:00pm - 6:35pm|Team1|Team4|Team7|
+|6:40pm - 7:15pm|Team2|Team5|Team8|
+|7:20pm - 7:55pm|Team3|Team6|Team9|
+
+**8pm-8:50pm Free discussion in the main meeting room; leave any time**
+
+## Details
+#### After joining the main session, to start: 
+
+1. Change your name as follows 
+   - Guests: Guest-School-Name, e.g., Guest-WPI-John
+   - Class students: Team-ID-Name, e.g., Team-1-John
+   - TAs: TA-Name
+
+2. Send a message to ***TA-Yingxue*** to request to join a poster breakout room.
+
+#### To switch to a new breakout room:
+
+1. Leave a breakout room to the main session, 
+2. Send a request to ***TA-Yingxue*** in the main session
+
+***Feedback here: To be updated***
+
 ## Project Ideas
 ### Games
 <p align="center">
