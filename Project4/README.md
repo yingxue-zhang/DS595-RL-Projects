@@ -65,7 +65,7 @@ Please find the class zoom link in Canvas (for registered students) or the invit
 1. Leave a breakout room to the main session, 
 2. Send a request to ***TA-Yingxue*** in the main session
 
-***Feedback here: To be updated***
+***Feedback here: https://forms.gle/AVNdVfBgqZYySYcm7***
 
 ## Project Ideas
 ### Games
