@@ -15,7 +15,7 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   * The leaderboard of Fall 2019 is also posted at the end of this page, you can check it out.
   
   **Leaderboard for Breakout-DQN** 
-  **Update Date: 11/19/2020 16:00**
+  **Update Date: **
   
   | Top | Date | Name | Score |
   | :---: | :---:| :---: | :---: | 
