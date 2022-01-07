@@ -19,16 +19,10 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   
   | Top | Date | Name | Score |
   | :---: | :---:| :---: | :---: | 
-  | 1  | 11/19/2020|Abhishek Jain  | 424.21  |
-  | 2  | 11/19/2020|Akshay Sadanandan  | 403  |
-  | 3  | 11/19/2020|Dhirajsinh Deshmukh  | 393.37  |
-  |4 |11/19/2020 |   Daniel Jeswin Nallathambi      | 335.26  |
-  | 5  | 11/18/2020|Sayali Shelke  | 334  |
-  |6 | 11/19/2020|Varun Eranki  | 298  |
-  | 7  | 11/5/2020|Apiwat Ditthapron  | 194.5  | 
-  |8 | 11/18/2020|Panagiotis Argyrakis  | 156.09  |
-  |9 | 11/20/2020|Scott Tang  | 153.89  |
-  |10 | 11/18/2020|Xinyuan Yang  | 139.11  |
+  | 1  | |  |  |
+  | 2  | |  |  |
+  | 3  | |  |  |
+  
  
 
 * How to elvaluate
@@ -122,3 +116,18 @@ Please compress all the below files into a zipped file and submit the zip file (
   | 7   |11/14/2019| Cory neville | 59.96 | 
   | 8   |10/24/2019|Shreesha Narasimha Murthy  |56.79     | 
   | 9   |10/20/2019|Sinan Morcel            |53.26        |
+  
+## Leaderboard for Fall 2020** 
+
+  | Top | Date | Name | Score |
+  | :---: | :---:| :---: | :---: | 
+  | 1  | 11/19/2020|Abhishek Jain  | 424.21  |
+  | 2  | 11/19/2020|Akshay Sadanandan  | 403  |
+  | 3  | 11/19/2020|Dhirajsinh Deshmukh  | 393.37  |
+  |4 |11/19/2020 |   Daniel Jeswin Nallathambi      | 335.26  |
+  | 5  | 11/18/2020|Sayali Shelke  | 334  |
+  |6 | 11/19/2020|Varun Eranki  | 298  |
+  | 7  | 11/5/2020|Apiwat Ditthapron  | 194.5  | 
+  |8 | 11/18/2020|Panagiotis Argyrakis  | 156.09  |
+  |9 | 11/20/2020|Scott Tang  | 153.89  |
+  |10 | 11/18/2020|Xinyuan Yang  | 139.11  |
