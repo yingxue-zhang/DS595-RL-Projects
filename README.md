@@ -1,1 +1,1 @@
-# DS595CS525-RL-Projects
+# DS595-RL-Projects
