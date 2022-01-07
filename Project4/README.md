@@ -2,21 +2,21 @@
 
 #### Important Dates
 * Project Start
-  * **Thursday October 29, 2020**
+  * **Thursday Mar 24, 2022**
 * Project Proposal Due (Upload to Canvas)
-  * **Thursday November 12, 2020 (23:59)**
+  * **Thursday Mar 31, 2022 (23:59)**
   * *About 2 pages*
 * Project Progress Report Due
-  * **Thursday November 26, 2020 (23:59)**
+  * **Thursday April 14, 2022 (23:59)**
   * *About 5 pages*
 * Final Project Report Due
-  * **Tuesday December 8, 2020 (23:59)**
+  * **Tuesday April 26, 2022 (23:59)**
   * *About 10 pages*
   * *Code and trained model*
   * *Demo (Optional)*
   * *Self-and-cross evaluation form*
 * Poster Session (on Zoom)
-  * **Thursday December 10, 2020**
+  * **Thursday April 28, 2022**
 
 #### Total Points
 * 100 (One Hundred)
@@ -24,15 +24,12 @@
 ## Project Titles
 | Team | Title|
 | :---: | :---: |
-|1|Benchmarking Agents Across Diverse Tasks |
-|2|Football with Manchester|
-|3|Deep Reinforcement Learning for Traffic Flow Optimization|
-|4|Generalized models for robotic tasks |
-|5|Tactical Decision-Making for Autonomous Driving |
-|6|Super Mario Bros |
-|7|Robot Navigation in Dynamic Environments using Deep Reinforcement Learning |
-|8|Autonomous Driving Simulation with Dynamic Obstacle Avoidance |
-|9|A Comparative Study of Jitter-Mitigating Methods for Deep Reinforcement Learning |
+|1| |
+|2| |
+|3| |
+|4| |
+|5| |
+|6| |
 
 # Final Poster Session
 Final Poster Session will be held in Zoom breakout rooms. Each breakout room will have **3** teams, when one team is presenting, other teams are assigned as audients/judges. Also, the poster session will have invited guests (students and faculty from not
@@ -41,12 +38,11 @@ only WPI).
 Please find the class zoom link in Canvas (for registered students) or the invitation email you received (for guests).
 
 ## Session Schedule
-**Date** : Dec 10, 2020
+**Date** : April 28, 2022
 | Time | Breakroom 1 | Breakroom 2 | Breakroom 3| 
 |---|---|---|---|
-|6:00pm - 6:35pm|Team1|Team4|Team7|
-|6:40pm - 7:15pm|Team2|Team5|Team8|
-|7:20pm - 7:55pm|Team3|Team6|Team9|
+| | | | |
+
 
 **8pm-8:50pm Free discussion in the main meeting room; leave any time**
 
