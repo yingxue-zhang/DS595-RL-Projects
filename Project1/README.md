@@ -1,9 +1,9 @@
 
-# DS595/CS525 2020 Fall Individual Project 1
+# DS595 2022 Spring Individual Project 1
 # Dynamic Programming of Markov Decision Process
 
 #### Due Date
-* Thursday September 24, 2020(23:59)
+* Thursday Feb 3, 2022(23:59)
 
 #### Total Points
 * 100 (One Hundred)
