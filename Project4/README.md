@@ -44,8 +44,6 @@ Please find the class zoom link in Canvas (for registered students) or the invit
 | | | | |
 
 
-**8pm-8:50pm Free discussion in the main meeting room; leave any time**
-
 ## Details
 #### After joining the main session, to start: 
 
