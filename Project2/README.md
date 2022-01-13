@@ -3,7 +3,7 @@
 # Model-free Algorithms (Monte-Carlo and Temporal Difference)
 
 #### Due Date
-* Thursday Mar 3, 2022 (23:59)
+* Wednesday Mar 2, 2022 (23:59)
 
 #### Total Points
 * 100 (One Hundred)
