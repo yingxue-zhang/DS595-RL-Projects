@@ -3,7 +3,7 @@
 Please don't revise test.py, environment.py and agent.py
 
 #### Due Date
-* Thursday Mar 24, 2022 (23:59)
+* Wednesday Mar 23, 2022 (23:59)
 
 #### Total Points
 * 100 (One Hundred)
