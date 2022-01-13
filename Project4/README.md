@@ -2,21 +2,21 @@
 
 #### Important Dates
 * Project Start
-  * **Thursday Mar 24, 2022**
+  * **Wednesday Mar 23, 2022**
 * Project Proposal Due (Upload to Canvas)
-  * **Thursday Mar 31, 2022 (23:59)**
+  * **Wednesday Mar 30, 2022 (23:59)**
   * *About 2 pages*
 * Project Progress Report Due
-  * **Thursday April 14, 2022 (23:59)**
+  * **Wednesday April 13, 2022 (23:59)**
   * *About 5 pages*
 * Final Project Report Due
-  * **Tuesday April 26, 2022 (23:59)**
+  * **Monday April 25, 2022 (23:59)**
   * *About 10 pages*
   * *Code and trained model*
   * *Demo (Optional)*
   * *Self-and-cross evaluation form*
 * Poster Session (on Zoom)
-  * **Thursday April 28, 2022**
+  * **Wednesday April 27, 2022**
 
 #### Total Points
 * 100 (One Hundred)
