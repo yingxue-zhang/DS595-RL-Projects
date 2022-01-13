@@ -3,7 +3,7 @@
 # Dynamic Programming of Markov Decision Process
 
 #### Due Date
-* Thursday Feb 3, 2022(23:59)
+* Wednesday Feb 9, 2022(23:59)
 
 #### Total Points
 * 100 (One Hundred)
