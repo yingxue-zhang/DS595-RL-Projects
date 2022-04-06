@@ -19,9 +19,12 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   
   | Top | Date | Name | Score |
   | :---: | :---:| :---: | :---: | 
-  | 1  | |  |  |
-  | 2  | |  |  |
-  | 3  | |  |  |
+  | 1  |4/6/2022 | Hongchao Zhang | 128 |
+  | 2  | 4/6/2022 |  Sailesh Rajagopalan | 78 |
+  | 2  |4/6/2022 | Steven Hyland | 78 |
+  | 4  |4/6/2022 | Yiran Fang | 74 |
+  | 5  |4/6/2022 | Zhentian Qian | 67 |
+  | 6  |4/6/2022 | Anujay Sharma | 66 |
   
  
 
