@@ -21,13 +21,13 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   | :---: | :---:| :---: | :---: | 
   | 1  |4/6/2022 | Hongchao Zhang | 128 |
   | 2  | 4/6/2022 |  Puru Upadhyay | 82 |
-  | 2  | 4/6/2022 |  Khai Yi Chin | 81 |
-  | 2  | 4/6/2022 |  Karter Krueger | 81 |
-  | 3  | 4/6/2022 |  Sailesh Rajagopalan | 78 |
-  | 3  |4/6/2022 | Steven Hyland | 78 |
-  | 5  |4/6/2022 | Yiran Fang | 74 |
-  | 6  |4/6/2022 | Zhentian Qian | 67 |
-  | 7  |4/6/2022 | Anujay Sharma | 66 |
+  | 3  | 4/6/2022 |  Khai Yi Chin | 81 |
+  | 3  | 4/6/2022 |  Karter Krueger | 81 |
+  | 5  | 4/6/2022 |  Sailesh Rajagopalan | 78 |
+  | 5  |4/6/2022 | Steven Hyland | 78 |
+  | 7  |4/6/2022 | Yiran Fang | 74 |
+  | 8  |4/6/2022 | Zhentian Qian | 67 |
+  | 9  |4/6/2022 | Anujay Sharma | 66 |
   
  
 
