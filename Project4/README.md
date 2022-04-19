@@ -24,12 +24,17 @@
 ## Project Titles
 | Team | Title|
 | :---: | :---: |
-|1| |
-|2| |
-|3| |
-|4| |
-|5| |
-|6| |
+|1| Training Agent w/ RL to race in TrackMania 2020|
+|2| Playing Doom with a Deep Recurrent Q Network|
+|3| Robotic Grasping with Reinforcement Learning|
+|4| Comparisons of Deep Q-learning (DQN) with Proximal Policy Optimization (PPO) on Lunar Lander|
+|5| AlphaGomoku: Mastering The Game of Gomoku using The AlphaZero Learning Method|
+|6| Comparison of Reinforcement Learning models applied to MineRL challenge|
+|7| Reinforcement Learning for Autonomous Driving using CARLA Simulator|
+|8| Super Mario Bros (w/ A2C, PPO, DQN, etc.)|
+|9| Continuous & Mapless Navigation for robots using Policy Gradient Algorithm|
+|10| Training Agent w/ RL to the puzzle video game: Minesweeper|
+|11| Comparison of Discrete and Continuous Action Spaces in Car Racing Environment|
 
 # Final Poster Session
 Final Poster Session will be held in Zoom breakout rooms. Each breakout room will have **3** teams, when one team is presenting, other teams are assigned as audients/judges. Also, the poster session will have invited guests (students and faculty from not
