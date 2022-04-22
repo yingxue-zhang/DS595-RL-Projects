@@ -43,7 +43,7 @@ only WPI).
 Please find the class zoom link in Canvas (for registered students) or the invitation email you received (for guests).
 
 ## Session Schedule
-**Date** : April 28, 2022
+**Date** : April 27, 2022
 | Time | Breakroom 1 | Breakroom 2 | Breakroom 3| 
 |---|---|---|---|
 | | | | |
@@ -57,12 +57,10 @@ Please find the class zoom link in Canvas (for registered students) or the invit
    - Class students: Team-ID-Name, e.g., Team-1-John
    - TAs: TA-Name
 
-2. Send a message to ***TA-Yingxue*** to request to join a poster breakout room.
-
 #### To switch to a new breakout room:
 
 1. Leave a breakout room to the main session, 
-2. Send a request to ***TA-Yingxue*** in the main session
+2. Join another breakout room of your interest.
 
 ***Feedback here: https://forms.gle/cNgfX1dxXct1jNe26***
 
